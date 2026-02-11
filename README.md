@@ -9,4 +9,4 @@ transform.Translate(Vector3);
 transform.Rotate(Vector3);
 ````
 
-<img src "earthmoon/Rocket.gif">
+<img src "video/Rocket.gif">
